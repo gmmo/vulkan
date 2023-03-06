@@ -421,7 +421,7 @@ VkResult AllocateMemoryTypeFromProperties(uint32_t typeBits,
 }
 
 //////////////////////////////
-// gmmo
+// gmmo new block
 //////////////////////////////
 void LoadFromSource(uint32_t& imgWidth, uint32_t& imgHeight, unsigned char** imageData)
 {
@@ -733,7 +733,7 @@ void CreateTexture(void) {
   }
 }
 ////////////////////////
-// gmmo end
+// gmmo end new block
 ////////////////////////
 
 // A helper function
