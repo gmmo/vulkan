@@ -9,10 +9,3 @@ local.properties
 .cxx
 .cdep
 cdep.sha256
-_tutorial05_triangle.orig/
-common/
-third_party/
-tutorial01_load_vulkan/
-tutorial02_prebuild_layers/
-tutorial03_traceable_layers/
-tutorial04_first_window/
